@@ -1,0 +1,17 @@
+{
+  "name": "scm-soundplayer",
+  "version": "1.0.3",
+  "description": "",
+  "main": "SoundPlayer.js",
+  "cordova": {
+    "id": "SoundPlayer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
